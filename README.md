@@ -10,3 +10,4 @@
   * Connectivity Test (VM)
   * Create Firewell Rules
   * [IPv6-address: Public vs Private](https://community.fs.com/article/ipv6-address-public-vs-private.html)
+  * [Engineering for Relibility](https://www.youtube.com/watch?v=DL_8bHeTlgg&list=PLIivdWyY5sqLOiLXJDlN-wKd0g7hf_9vC)
